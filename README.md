@@ -49,6 +49,5 @@
 ## 🤝🏻 &nbsp;Connect with Me 
 
 &nbsp; [![LinkenIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin")][1]
-&nbsp; [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)][2]
 
 [1]: https://www.linkedin.com/in/ch-abdul-munaf
