@@ -11,7 +11,7 @@
 ## 📖 &nbsp;About Me
 
 - 🔭 &nbsp; I’m currently working on ** MERN Stack / Nextjs**
-- 🌱 &nbsp; I’m currently learning **Threejs**
+- 🌱 &nbsp; I’m currently learning **React Animations and 3D web design using ThreeJs**
 - 🎓 &nbsp; Studied Software Engineering at Comsats University Islamabad.
 - ❤️ &nbsp; I’m looking to collaborate on open source projects
 - 💬 &nbsp; Ask me about **React, Express, Nextjs, Threejs, GSAP**
